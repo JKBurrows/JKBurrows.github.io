@@ -1,4 +1,4 @@
 ---
 layout: post
-title: Data Science and Statistics
+title: DS and Stats
 ---
