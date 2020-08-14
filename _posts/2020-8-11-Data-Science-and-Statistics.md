@@ -15,7 +15,7 @@ The duties of a data scientist include reading and cleaning raw data, exploring 
 
 Earlier I said that the job of a data scientist is to extract useful information from data. The same could be said of a statistician. As a result, the skill bases of the two typically overlap. Data scientists typically know some statistics, and statisticians typically know some computer programming. 
 	
-Although the two specializations are similar, they are not the same. One difference is that data scientists typically work with data sets that are large and/or frequently updated. This requires a facility with computer programming. Another difference is that statisticians are more likely to be involved in the design of an experiment or survey. This is because the tools of mathematical statistics are required in order to know what we will be able to infer from the results of an experiment or survey once it is performed. 
+Although the two specializations are related, they are not the same. One difference is that data scientists typically work with data sets that are large and/or frequently updated. This requires a facility with computer programming. Another difference is that statisticians are more likely to be involved in the design of an experiment or survey. This is because the tools of mathematical statistics are required in order to know what we will be able to infer from the results of an experiment or survey once it is performed. 
 
 ### How do you view yourself in relation to these two areas?
 
