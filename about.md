@@ -4,4 +4,10 @@ title: About
 permalink: /about/
 ---
 
-I am a statistics student at NC State
+I live in Chapel Hill and am a statistics student at [NC State](https://statistics.sciences.ncsu.edu/). 
+
+## Contact 
+
+jkburrow@ncsu.edu
+
+
