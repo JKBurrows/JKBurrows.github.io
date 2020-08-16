@@ -13,6 +13,6 @@ Courses include:
 
 ### Contact 
 
-jkburrow@ncsu.edu
+*jkburrow@ncsu.edu*
 
 
