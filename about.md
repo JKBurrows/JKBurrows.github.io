@@ -11,7 +11,7 @@ Courses include:
 * Statistical Methods 
 * Data Science 
 
-## Contact 
+### Contact 
 
 jkburrow@ncsu.edu
 
