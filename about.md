@@ -11,6 +11,8 @@ Courses include:
 * *Statistical Methods*
 * *Data Science* 
 
+I enjoy social distancing, mild earthquakes, and oxford commas. 
+
 ### Contact 
 
 [jkburrow@ncsu.edu](mailto:jkburrow@ncsu.edu) 
