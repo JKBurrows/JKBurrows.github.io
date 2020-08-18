@@ -11,7 +11,7 @@ Courses include:
 * *Statistical Methods*
 * *Data Science* 
 
-I enjoy social distancing, mild earthquakes, and oxford commas. 
+I enjoy social distancing, mild earthquakes, and Oxford commas. 
 
 ### Contact 
 
