@@ -15,6 +15,6 @@ I like that lots of open source packages are available, and I think that R Studi
 
 I miss SAS’s format procedure, which is very helpful for displaying data. I also liked that, when SAS throws an error or warning, it does a good job of pointing to the exact spot that caused the problem, and it does a good job of explaining what is causing the problem. So far, I have found R’s error and warning messages more difficult to understand. 
 
-### Do you consider R a difficult language to learn? (If you knew R prior to the course, describe your experience when first learning it.)
+### Do you consider R a difficult language to learn?
 
-I do not think that it has been any more or less difficult than SAS or Python. The commands are intuitively words, and the concepts, such as using one function after another to produce a result, are not too difficult to understand. We’ll see if I change my mind, though, when I try to do more complicated things. 
+I do not think that it has been any more or less difficult than SAS or Python. The commands are reasonably intuitively, and the concepts, such as using one function after another to produce a result, are not too difficult to understand. We’ll see if I change my mind, though, when I try to do more complicated things. 
