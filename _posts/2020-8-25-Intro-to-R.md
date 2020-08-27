@@ -13,7 +13,7 @@ I like that lots of open source packages are available, and I think that R Studi
 
 ### What parts do you miss about your other language?  
 
-I miss SAS’s format procedure, which is very helpful for displaying data. I also liked that, when SAS throws an error or warning, it does a good job of pointing to the exact spot that caused the problem, and it does a good job of explaining what is causing the problem. So far, I have found R’s error and warning messages more difficult to understand. 
+I miss SAS’s format proc, which is very helpful for displaying data. Also, when SAS throws an error or warning, it does a good job of explaining what is causing the problem and pointing to the exact spot where the problem is. So far, I have found R’s error and warning messages more difficult to understand. 
 
 ### Do you consider R a difficult language to learn?
 
