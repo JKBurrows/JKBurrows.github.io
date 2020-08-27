@@ -5,7 +5,9 @@ title: Intro to R
 
 ### What are your thoughts on R vs whatever other software you've used? 
 
-In addition to R, I have used SAS and Python. R is very different from SAS. Writing and using functions is one of the main focuses of R. This is not the case with SAS. Also, R is built on open source software, whereas SAS is proprietary. On the other hand, R and Python are not so different. I think that everything that I have done so far in R could be translated into Python code that looks more or less the same. 
+In addition to R, I have used SAS and Python. R is very different from SAS. Writing and using functions is one of the main focuses of R. This is not the case with SAS. Also, R is built on open source software, whereas SAS is proprietary. 
+
+On the other hand, R and Python are not so different. I think that everything that I have done so far in R could be translated into Python code that looks more or less the same. 
 
 ### What functionality do you like about R?  
 
