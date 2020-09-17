@@ -19,7 +19,7 @@ If I did the project again, I would create an outline first to plan out what I w
 
 Also, if I did project again in real life instead of for a class, I would like to independently validate my data. This would mean finding someone else who has also taken the time to query the NHL’s APIs and comparing data with them. 
 
- ### What was the most difficult part of the logic and programming for you?
+### What was the most difficult part of the logic and programming for you?
 
 Two difficult parts of the programming were: 
 
