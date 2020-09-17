@@ -26,7 +26,7 @@ Two difficult parts of the programming were:
 * The length of the functions involved. Some of them were so long that it was easy to get lost while writing them. It was easy for my eyes to get lost, and it was easy to lose my train of thought. 
 * Flattening the data. Querying the APIs often returned nested objects. Writing code to un-nest them was time consuming. 
 
-## What are your big take-aways for future projects?
+### What are your big take-aways for future projects?
 
 Honestly, the biggest take-away is that all this takes is practice. If I did a similar project for the NFL’s API tomorrow, it would go much faster. And if I did the MBA after that, it would go even more smoothly. 
 
