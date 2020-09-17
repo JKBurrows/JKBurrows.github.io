@@ -7,7 +7,7 @@ title: The NHL API
 
 [This](linkOnceLive) is a link to the vignette for my NHL API project. For this project, I created an R function that contacts a few of the endpoints from the NHL’s stats and records APIs. Then I created a few plots and tables to explore the data. 
 
-One finding I made is that some endpoints from the stats API don’t return what the documentation sites ([records](https://gitlab.com/dword4/nhlapi/-/blob/master/records-api.md), [stats](https://gitlab.com/dword4/nhlapi/-/blob/master/stats-api.md)) lead me to think they would return. In particular, when contacting the Teams endpoint of the stats API, the person.names modifier and the statsSingleSeasonPlayoffs modifier return the same information as the unmodified endpoint. They don’t seem to modify it at all. 
+One finding I made is that some endpoints from the stats API don’t return what the documentation sites ([records](https://gitlab.com/dword4/nhlapi/-/blob/master/records-api.md), [stats](https://gitlab.com/dword4/nhlapi/-/blob/master/stats-api.md)) lead me to think they would return. In particular, when contacting the Teams endpoint of the stats API, the *person.names* modifier and the *statsSingleSeasonPlayoffs* modifier return the same information as the unmodified endpoint. They don’t seem to modify it at all. 
 
 Another finding I made is that penalty minutes appear to have a stronger negative relationship with a team’s win percentage during the regular season than during the post season. In my vignette, I speculate that this is because, during the post season, players are better at fouling strategically. 
 
@@ -28,7 +28,7 @@ Two difficult parts of the programming were:
 
 ### What are your big take-aways for future projects?
 
-Honestly, the biggest take-away is that all this takes is practice. If I did a similar project for the NFL’s API tomorrow, it would go much faster. And if I did the MBA after that, it would go even more smoothly. 
+Honestly, the biggest take-away is that all this takes is practice. If I did a similar project for the NFL’s API tomorrow, it would go much faster. And if I did the NBA after that, it would go even more smoothly. 
 
 Another take-away is that it is easier to make meaningful plots and tables when you have a question in mind that you want to answer. For this project, I had a lot of NHL data, but no real motivating question abut the NHL that I was trying to answer. 
 
