@@ -32,7 +32,7 @@ Two difficult parts of the programming were:
 
 Honestly, the biggest take-away is that all this takes is practice. If I did a similar project for the NFL’s API tomorrow, it would go much faster. And if I did the NBA after that, it would go even more smoothly. 
 
-Another take-away is that it is easier to make meaningful plots and tables when you have a question in mind that you want to answer. For this project, I had a lot of NHL data, but no real motivating question abut the NHL that I was trying to answer. 
+Another take-away is that it is easier to make meaningful plots and tables when you have a question in mind that you want to answer. For this project, I had a lot of NHL data, but no real motivating question about the NHL that I was trying to answer. 
 
 
 
