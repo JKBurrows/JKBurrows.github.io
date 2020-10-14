@@ -21,6 +21,6 @@ The most difficult part was getting the automation up and running. Now that I ha
 
 ### What are your big take-aways from this project? 
 
-One big take away is that the caret package really does make modeling easy. All that you need to do is specify a few parameters and then wait a few minutes for it to run. This means that you could create a lot of different models without knowing much about how they work. I expect, though, that in practice modeling blindly leads to problems.  
+One big take away is that the `caret` package really does make modeling easy. All that you need to do is specify a few parameters and then wait a few minutes for it to run. This means that you could create a lot of different models without knowing much about how they work. I expect, though, that in practice modeling blindly leads to problems.  
 
 A small take away is that it is important to clear your cache before finalizing your work. I knew this, but I’d never done a project where it came into play before. 
