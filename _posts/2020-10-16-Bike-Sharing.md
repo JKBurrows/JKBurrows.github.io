@@ -5,7 +5,7 @@ title: Bike Sharing
 
 ### Topic and Finding 
 
-[This](https://github.com/JKBurrows/ST558-Project-2) is a link to the repo for my bike share data project. 
+[This](https://jkburrows.github.io/ST558-Project-2/) is a link to my bike sharing project. [This](https://github.com/JKBurrows/ST558-Project-2) is a link to the associated github repo. 
 
 My goal was to predict the number of bikes that will be rented on a given day of the week. I created two models to make this prediction, a basic non-ensemble tree model and a boosted tree model. Unsurprisingly, the boosted tree did better than the basic non-ensemble model when tested. 
 
