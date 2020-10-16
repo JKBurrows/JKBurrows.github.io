@@ -7,7 +7,7 @@ title: Bike Sharing
 
 [This](https://jkburrows.github.io/ST558-Project-2/) is a link to my bike sharing project. [This](https://github.com/JKBurrows/ST558-Project-2) is a link to the github repo. 
 
-My goal was to predict the number of bikes that will be rented on a given day of the week. I created two models to make this prediction, a basic non-ensemble tree model and a boosted tree model. Unsurprisingly, the boosted tree did better than the basic non-ensemble model when tested. 
+My goal was to predict number of bikes rented. I created two models to make this prediction, a basic non-ensemble tree model and a boosted tree model. Unsurprisingly, the boosted tree did better than the basic non-ensemble model when tested. 
 
 ### What would you do differently? 
 
@@ -17,7 +17,7 @@ Another thing that I would do differently is figure out how to change the color 
 
 ### What was the most difficult part for you? 
 
-The most difficult part was getting the automation up and running. Now that I have it figured out, it works just fine, but it was frustrating in the beginning. The biggest issue was that it took me a long time to realize that a default parameter has to be included in the YAML header. 
+The most difficult part was getting the automation up and running. Now that I have it figured out, it works just fine, but it was frustrating in the beginning. The biggest issue was that it took me a while to figure out that a default parameter has to be included in the YAML header. 
 
 ### What are your big take-aways from this project? 
 
