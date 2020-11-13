@@ -9,7 +9,7 @@ In my first blog post, I wrote that that job of a data scientist is to extract u
 
 ### What are your current thoughts in terms of using R for data science - do you think you'll continue to use R going forward?  Why or why not?
 
-I think that R is straightforward once you know how to use it. Also, I’m impressed by the wide variety of packages that are available. Often there is more than one package for a given subject, so there is usually more than one way to complete a task. In addition to packages, there are lots of helpful blog posts and many free textbooks available online. These make it easier to learn new data science subjects. 
+I think that R is straightforward once you know how to use it. Also, I’m impressed by the wide variety of packages that are available. Often there is more than one package for a given subject, so there is usually more than one way to complete a task. In addition to packages, there are lots of helpful blog posts and many free textbooks available online. These make it possible to use R to learn new data science subjects. 
 
 I think that, if I do a data science project in my spare time, I will use R. If I get a job in the field, though, who knows what language they will want me to use. 
 
