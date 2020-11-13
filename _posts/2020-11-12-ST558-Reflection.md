@@ -5,7 +5,7 @@ title: ST558 Reflection
 
 ### What (if anything) has changed about what you think a data scientist is and what they do?
 
-In my first blog post, I wrote that that job of a data scientist is to extract useful information from data, which requires knowledge of computer programming and statistics as well as domain specific knowledge. Taking this class hasn’t changed my mind. If anything, it has confirmed this understanding of data science. Programming is obviously important, and the class stressed the importance of domain specific knowledge for things like candidate model selection. Although traditional statistical methods such as inference were not emphasized, understanding many different types of models was, and the connections to time series and Bayesian statistics are clear.  
+In my first blog post, I wrote that the job of a data scientist is to extract useful information from data, which requires knowledge of computer programming and statistics as well as domain specific knowledge. Taking this class hasn’t changed my mind. If anything, it has confirmed this understanding of data science. Programming is obviously important, and the class stressed the importance of domain specific knowledge for things like candidate model selection. Although traditional statistical methods such as inference were not emphasized, understanding many different types of models was, and the connections to time series and Bayesian statistics are clear.  
 
 ### What are your current thoughts in terms of using R for data science - do you think you'll continue to use R going forward?  Why or why not?
 
